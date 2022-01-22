@@ -1,0 +1,7 @@
+Instructions to run the program:
+1.Unzip the folder and save it in Desktop.
+2.Open the folder and Run the 'main.py' python file.
+3.Make the screen to face a plain background for 5 seconds.
+4.Show the hand gesture inside the bounding box.
+5.Alarm sound is played.
+6.Press 'q' to exit the program.
